@@ -16,6 +16,7 @@ export default defineNuxtConfig({
   sitemap: {
     strictNuxtContentPaths: true,
   },
+
   site: {
     url: seoData.mySite,
     identity: {
@@ -62,4 +63,6 @@ export default defineNuxtConfig({
       theme: 'dracula',
     },
   },
+
+  compatibilityDate: '2024-09-27',
 })

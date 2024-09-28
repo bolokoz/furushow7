@@ -80,9 +80,9 @@ defineOgImage({
 
 <template>
   <main class="container max-w-5xl mx-auto text-zinc-600">
-    <ArchiveHero />
+    <MainHeroblog />
 
-    <div class="px-6">
+    <div class="px-6 py-6">
       <input
         v-model="searchTest"
         placeholder="Search"
