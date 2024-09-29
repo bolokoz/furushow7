@@ -24,7 +24,7 @@ function onClick(val: string) {
           </NuxtLink>
         </li>
         <li>
-          <NuxtLink to="/blogs">
+          <NuxtLink to="/notes">
             Notas
           </NuxtLink>
         </li>

@@ -10,7 +10,7 @@ defineProps({
 <template>
   <header>
     <!-- Hero top -->
-    <div class="bg-gradient-to-b from-slate-100 to-green-200 dark:from-slate-950 dark:to-green-900">
+    <div class="bg-gradient-to-b from-slate-100 to-green-200 dark:from-slate-950 dark:to-cyan-950 py-6 sm:py-8 lg:py-12 rounded-3xl">
       <!-- Container -->
       <div class="mx-auto max-w-7xl px-5 py-24 md:px-10 md:py-20">
         <!-- Title -->

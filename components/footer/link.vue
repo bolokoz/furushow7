@@ -6,7 +6,7 @@
     <NuxtLink to="/" class="hover:underline">
       Home
     </NuxtLink>
-    <NuxtLink to="/blogs" class="hover:underline">
+    <NuxtLink to="/notes" class="hover:underline">
       Blogs
     </NuxtLink>
     <NuxtLink to="/categories" class="hover:underline">
