@@ -7,7 +7,7 @@ interface Props {
   image: string
   alt: string
   ogImage: string
-  category: string
+  category?: string
   tags: Array<string>
   published: boolean
 }
@@ -41,16 +41,16 @@ withDefaults(defineProps<Props>(), {
             <LogoDate />
             {{ date }}
           </div>
+          <div class="flex items-center gap-1 flex-wrap pb-1.5">
+            <Icon name="material-symbols:category" />
+
+            <span class="inline-flex items-center gap-x-1.5 py-1 px-3 rounded-md text-xs font-medium border border-gray-200 bg-slate-200 text-gray-800 shadow-sm dark:bg-neutral-900 dark:border-neutral-700 dark:text-white">{{ category }}</span>
+          </div>
           <div class="flex items-center gap-1 flex-wrap">
             <LogoTag />
             <template v-for="tag in tags" :key="tag">
-              <span>{{ tag }}</span>
+              <span class="inline-flex items-center gap-x-1.5 py-0.5 px-2 rounded-md text-xs font-medium border border-gray-800 text-gray-800 dark:border-neutral-200 dark:text-white">{{ tag }}</span>
             </template>
-          </div>
-          <div class="flex items-center gap-1 flex-wrap">
-            <LogoArrow />
-
-            <span>{{ category }}</span>
           </div>
         </div>
         <h2 class="text-xl font-semibold  text-black dark:text-zinc-300   pb-1 group-hover:text-sky-700 dark:group-hover:text-sky-400">

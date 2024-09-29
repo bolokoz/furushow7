@@ -62,6 +62,9 @@ export default defineNuxtConfig({
     highlight: {
       theme: 'dracula',
     },
+    markdown: {
+      toc: { depth: 4, searchDepth: 4 },
+    },
   },
 
   compatibilityDate: '2024-09-27',
