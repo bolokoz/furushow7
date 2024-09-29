@@ -7,6 +7,7 @@ interface Props {
   image: string
   alt: string
   ogImage: string
+  category: string
   tags: Array<string>
   published: boolean
 }
@@ -20,6 +21,7 @@ withDefaults(defineProps<Props>(), {
   alt: 'no-alt',
   ogImage: '/blogs-img/blog.jpg',
   tags: () => [],
+  category: 'no-category',
   published: false,
 })
 </script>
@@ -44,6 +46,11 @@ withDefaults(defineProps<Props>(), {
             <template v-for="tag in tags" :key="tag">
               <span>{{ tag }}</span>
             </template>
+          </div>
+          <div class="flex items-center gap-1 flex-wrap">
+            <LogoArrow />
+
+            <span>{{ category }}</span>
           </div>
         </div>
         <h2 class="text-xl font-semibold  text-black dark:text-zinc-300   pb-1 group-hover:text-sky-700 dark:group-hover:text-sky-400">

@@ -2,8 +2,8 @@
 const route = useRoute()
 
 // take category from route params & make first char upper
-const category = computed(() => {
-  const name = route.params.category || ''
+const tag = computed(() => {
+  const name = route.params.tag || ''
   let strName = ''
 
   if (Array.isArray(name))
@@ -12,9 +12,9 @@ const category = computed(() => {
   return strName
 })
 
-const { data } = await useAsyncData(`category-data-${category.value}`, () =>
-  queryContent('/blogs')
-    .where({ tags: { $contains: category.value } })
+const { data } = await useAsyncData(`category-data-${tag.value}`, () =>
+  queryContent('/')
+    .where({ tags: { $contains: tag.value } })
     .find(),
 )
 
@@ -35,11 +35,11 @@ const formattedData = computed(() => {
 })
 
 useHead({
-  title: category.value,
+  title: tag.value,
   meta: [
     {
       name: 'description',
-      content: `You will find all the ${category.value} related post here`,
+      content: `You will find all the ${tag.value} related post here`,
     },
   ],
 })
@@ -48,8 +48,8 @@ useHead({
 const siteData = useSiteConfig()
 defineOgImage({
   props: {
-    title: category.value?.toUpperCase(),
-    description: `You will find all the ${category.value} related post here`,
+    title: tag.value?.toUpperCase(),
+    description: `You will find all the ${tag.value} related post here`,
     siteName: siteData.url,
   },
 })
