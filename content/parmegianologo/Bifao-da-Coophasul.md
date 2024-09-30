@@ -3,9 +3,7 @@ title: Bifao da Coophasul
 description: Review da Parmegiana
 date: 2024-07-29T03:07:48.150Z
 category:
-  - Food Rating
-tags:
-  - Parmegiana
+  - Parmegianologo
 acompanhamentos:
   - Vinagrete
   - Mandioca

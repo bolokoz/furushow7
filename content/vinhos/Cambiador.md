@@ -9,5 +9,7 @@ year: 2020
 country: Argentina
 rating: undefined
 description: undefined
+category:
+  - vinhos
 images: [http://res.cloudinary.com/boloko/image/upload/v1724727211/furushow5/parmegianologo/20240823_210448_grksie.jpg]
 ---

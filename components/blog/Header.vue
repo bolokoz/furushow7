@@ -5,6 +5,7 @@ interface Props {
   alt: string
   description: string
   date: string
+  category: string
   tags: Array<string>
 }
 
@@ -14,6 +15,7 @@ withDefaults(defineProps<Props>(), {
   alt: 'no-img',
   description: 'no description',
   date: 'no-date',
+  category: 'no-category',
   tags: () => ([]),
 })
 </script>
@@ -37,6 +39,10 @@ withDefaults(defineProps<Props>(), {
         <div class="flex items-center font-semibold">
           <LogoDate />
           <p>{{ date || '' }}</p>
+        </div>
+        <div class="flex items-center gap-1 flex-wrap pb-1.5">
+          <Icon name="material-symbols:category" />
+          <span class="inline-flex items-center gap-x-1.5 py-1 px-3 rounded-md text-xs font-medium border border-gray-200 bg-slate-200 text-gray-800 shadow-sm dark:bg-neutral-900 dark:border-neutral-700 dark:text-white">{{ category }}</span>
         </div>
         <div class="flex items-center gap-2 flex-wrap my-5">
           <LogoTag />

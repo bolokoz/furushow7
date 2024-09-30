@@ -9,5 +9,7 @@ year: 2021
 country: Argentina
 rating: 1
 description: undefined
+category:
+  - vinhos
 images: [http://res.cloudinary.com/boloko/image/upload/v1724727977/furushow5/parmegianologo/dvcatena_b3virc.jpg]
 ---

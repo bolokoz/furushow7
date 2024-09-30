@@ -13,8 +13,8 @@ const category = computed(() => {
 })
 
 const { data } = await useAsyncData(`category-data-${category.value}`, () =>
-  queryContent('/blogs')
-    .where({ tags: { $contains: category.value } })
+  queryContent('/')
+    .where({ category: { $contains: category.value } })
     .find(),
 )
 
@@ -29,6 +29,7 @@ const formattedData = computed(() => {
       ogImage: articles.ogImage || '/blogs-img/blog.jpg',
       date: articles.date || 'not-date-available',
       tags: articles.tags || [],
+      category: articles.category || 'no-category',
       published: articles.published || false,
     }
   })
@@ -70,6 +71,7 @@ defineOgImage({
         :alt="post.alt"
         :og-image="post.ogImage"
         :tags="post.tags"
+        :category="post.category"
         :published="post.published"
       />
       <BlogEmpty v-if="data?.length === 0" />

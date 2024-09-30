@@ -6,6 +6,8 @@ restaurant: Jardim Central
 uva: undefined
 adega: Santa Alba
 year: 2022
+category:
+  - vinhos
 country: Chile
 rating: undefined
 description: undefined

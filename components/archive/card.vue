@@ -5,6 +5,7 @@ interface Props {
   date?: string
   description?: string
   image?: string
+  category?: string
   alt?: string
   ogImage?: string
   tags?: Array<string>
@@ -19,6 +20,7 @@ withDefaults(defineProps<Props>(), {
   image: '/blogs-img/blog.jpg',
   alt: 'no-alt',
   ogImage: '/blogs-img/blog.jpg',
+  category: 'no-category',
   tags: () => [],
   published: false,
 })

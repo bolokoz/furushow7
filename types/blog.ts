@@ -6,5 +6,6 @@ export interface BlogPost {
   alt: string
   ogImage: string
   tags: string[]
+  category: string
   published: boolean
 }

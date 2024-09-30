@@ -3,11 +3,11 @@ title: Aikoteve Nderehe
 description: Traducao da Polka Paraguaia de Los Eligidos
 date: 2024-07-15T04:00:00.000Z
 category:
-  - guarani
-  - musica
-tag:
-  - traducoes
-  - polka paraguaia
+  - Linguagens
+tags:
+  - Guarani
+  - Tradução
+  - Música
 ---
 
 # Aikoteve nderehe

@@ -4,9 +4,7 @@ pais: Argentina
 uva: Blend de Tintas
 date: 2024-07-21T19:52:14.997Z
 category:
-  - Food Rating
-tag:
-  - Vinhos
+  - vinhos
 rating: 3
 price: 30
 local: SHopping China
