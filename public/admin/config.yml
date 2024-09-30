@@ -5,10 +5,16 @@ backend:
 media_folder: static/img
 public_folder: /img
 
+media_library:
+  name: cloudinary
+  config:
+    cloud_name: boloko
+    api_key: 5iNkufKpu6sEvWSjOb3xI7GsnfY
+
 collections:
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'content/blog'
+  - name: 'notes'
+    label: 'notes'
+    folder: 'content/notes'
     format: 'frontmatter'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
@@ -18,4 +24,6 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'tags', name: 'tags', widget: 'list' }
+      - { label: 'category', name: 'category', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
