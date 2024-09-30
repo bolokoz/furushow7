@@ -2,7 +2,8 @@
 title: Mistura grill
 date: 2024-09-30T18:45:00.000Z
 description: Parmebacon
-category: parmegianologo
+category: 
+  - Parmegianologo
 images:
   - https://res.cloudinary.com/boloko/image/upload/v1727736413/uwps9lkakslidsj5otqo.jpg
 acompanhamentos:
