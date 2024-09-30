@@ -4,7 +4,10 @@ date: 2024-07-29T03:07:48.150Z
 description: Review da Parmegiana
 category:
   - Parmegianologo
-cover: https://res.cloudinary.com/boloko/image/upload/v1725328686/furushow5/parmegianologo/Blink-Bootanimation_-_Copy_rgsbtq.gif
+images:
+  - https://res.cloudinary.com/boloko/image/upload/v1725328686/furushow5/parmegianologo/Blink-Bootanimation_-_Copy_rgsbtq.gif
+  - https://res.cloudinary.com/boloko/image/upload/v1725328685/furushow5/parmegianologo/6HJhvf7_-_Imgur_bqn5v5.gif
+  - https://res.cloudinary.com/boloko/image/upload/v1725328515/furushow5/parmegianologo/Blink-Bootanimation_o6ryqt.gif
 acompanhamentos:
   - Vinagrete
   - Mandioca
@@ -17,8 +20,9 @@ rating_molho: 1
 rating_crosta: 4
 rating_acompanhamentos: 1
 rating_restaurante: 4
-rating_maisvalia: 2
 price: 108
+cover: https://res.cloudinary.com/boloko/image/upload/v1725328686/furushow5/parmegianologo/Blink-Bootanimation_-_Copy_rgsbtq.gif
+rating_maisvalia: 2
 porcao: 2
 ---
 
