@@ -1,13 +1,15 @@
 ---
 title: Bifao da Coophasul
-description: Review da Parmegiana
 date: 2024-07-29T03:07:48.150Z
+description: Review da Parmegiana
 category:
   - Parmegianologo
+cover: https://res.cloudinary.com/boloko/image/upload/v1725328686/furushow5/parmegianologo/Blink-Bootanimation_-_Copy_rgsbtq.gif
 acompanhamentos:
   - Vinagrete
   - Mandioca
-  - Arroz
+  - asdasdasd
+  - asdasd
 rating: 2
 rating_tecnica: 3
 rating_carne: 4
