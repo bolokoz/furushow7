@@ -2,7 +2,10 @@
 import { navbarData } from '~/data'
 
 useHead({
-  title: 'Home',
+  title: 'Furushow',
+  script: [
+    { src: 'https://identity.netlify.com/v1/netlify-identity-widget.js' },
+  ],
   meta: [
     {
       name: 'description',
