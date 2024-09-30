@@ -172,7 +172,7 @@ Parece que o mais comum e facil seria utilizar pinus com tratamento químico. Pa
 :::warning precisa de atenção
 :::
 
-![Camadas](image-4.png)
+
 
 Nesta imagem não tem o preenchimento.
 Alguns outros utilizam outras camadas.
@@ -197,7 +197,7 @@ Creio que o item mais dificil de encontrar no Brasil.
 
 #### Banheiro
 
-![Modulo banheiro](/assets/images/BANHEIRO.png)
+
 
 Módulo de banheiro caberia na largura de 2,5m e permitir portas nestes retângulos para acomodar eventuais modulações diferentes.
 
@@ -205,11 +205,11 @@ Supondo folha de porta de 80cm, os montantes terão 80cm de espaçamento.
 
 #### Quarto
 
-![Módulo quarto](image-2.png)
+
 
 
 #### Cozinha
 
-![Cozinha](image-3.png)
+
 
 Nesta modulação os tubos hidrossanitários da cozinha e banheiro poderiam se concentrar em uma parede. Talvez assim facilitando durante fabricação e futuras manutenções. Concentra os pontos de atenção em uma parede apenas.
