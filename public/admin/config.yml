@@ -9,7 +9,7 @@ media_library:
   name: cloudinary
   config:
     cloud_name: boloko
-    api_key: 546499289928484
+    api_key: 615759249279911
 
 collections:
   - name: 'notes'
