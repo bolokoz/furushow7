@@ -39,10 +39,12 @@ collections:
     format: 'frontmatter'
     create: true
     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    editor:
+      preview: false
     fields:
       - { label: 'Nome do restaurnate', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'string' }
+      - { label: 'Nome do prato', name: 'description', widget: 'string' }
       - { label: 'category', name: 'category', widget: 'string', default: 'parmegianologo' }
       - { label: 'images', name: 'images', widget: 'image', choose_url: false,
           media_library: { config: { multiple: true }}}
