@@ -1,16 +1,17 @@
 ---
-type: cabernet apsodkasd
-nota: 3
-justificativa: asdfoasidjfaos
-images: asdfasdfoj
-title: Absurdo
-description: Avaliação de Parmegiana no restaurante Centrale
-date: 2024-07-20T04:00:00.000Z
-category:
-  - vinhos
-rating: 3
+uva: teste uvaaa
 price: 60
 local: Vino
+date: 2024-07-20T04:00:00.000Z
+nota: 3
 cover: /absurdo.png
+title: Absurdo
+images: asdfasdfoj
+type: cabernet apsodkasd
+description: Avaliação de Parmegiana no restaurante Centrale
+rating: 3
+category:
+  - vinhos
+justificativa: asdfoasidjfaos
 ---
-
+asdasd
