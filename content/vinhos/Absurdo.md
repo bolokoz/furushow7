@@ -8,9 +8,9 @@ category: vinhos
 rating: 3
 price: 60
 nota: 3
-cover: /absurdo.png
-images: asdfasdfoj
 description: Avaliação de Parmegiana no restaurante Centrale
+cover: https://res.cloudinary.com/boloko/image/upload/v1725328693/furushow5/parmegianologo/aCMKvsV_-_Imgur_remox6.gif
+images: asdfasdfoj
 justificativa: asdfoasidjfaos
 ---
 Clima do restaurante muito agradável
