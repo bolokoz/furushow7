@@ -1,7 +1,7 @@
 <script lang="ts" setup>
 // Get Last 6 Publish Post from the content/blog directory
 const { data } = await useAsyncData('recent-post', () =>
-  queryContent('/blogs').limit(3).sort({ _id: -1 }).find(),
+  queryContent('/').limit(3).sort({ _id: -1 }).find(),
 )
 
 const formattedData = computed(() => {
@@ -9,6 +9,7 @@ const formattedData = computed(() => {
     return {
       path: articles._path,
       title: articles.title || 'no-title available',
+      category: articles.category || 'no-category',
       description: articles.description || 'no-description available',
       image: articles.image || '/not-found.jpg',
       alt: articles.alt || 'no alter data available',
@@ -37,7 +38,7 @@ useHead({
     <div class="flex flex-row items-center space-x-3 pt-5 pb-3">
       <Icon name="mdi:star-three-points-outline" size="2em" class="text-black dark:text-zinc-300  " />
       <h2 class="text-4xl font-semibold text-black dark:text-zinc-300   ">
-        Recent Post
+        Posts recentes
       </h2>
     </div>
 
@@ -52,6 +53,7 @@ useHead({
           :alt="post.alt"
           :og-image="post.ogImage"
           :tags="post.tags"
+          :category="post.category"
           :published="post.published"
         />
       </template>

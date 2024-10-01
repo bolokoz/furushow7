@@ -1,7 +1,7 @@
 <template>
   <section>
     <!-- Container -->
-    <div class="mx-auto w-full max-w-7xl md:px-10 md:py-10 bg-gradient-to-b from-slate-100 to-green-200 dark:from-slate-950 dark:to-cyan-950 sm:py-8 rounded-3xl">
+    <div class="mx-auto w-full max-w-7xl md:px-10 md:py-10 px-2 bg-gradient-to-b from-slate-100 to-green-200 dark:from-slate-950 dark:to-cyan-950 sm:py-8 rounded-3xl">
       <!-- Title -->
       <h2 class="text-center text-3xl font-bold md:text-5xl text-gray-800 dark:text-slate-300">
         Notas e obs

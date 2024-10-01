@@ -39,7 +39,7 @@ data.value?.forEach((blog) => {
     <!-- Grid -->
     <div class="grid sm:grid-cols-2 md:grid-cols-3 xl:grid-cols-4 gap-3 sm:gap-6">
       <!-- Card -->
-      <NuxtLink v-for="category in allCategories" :key="category" class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md focus:outline-none focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" :to="`notes/categories/${category[0]}`">
+      <NuxtLink v-for="category in allCategories" :key="category" class="group flex flex-col bg-white border shadow-sm rounded-xl hover:shadow-md focus:outline-none focus:shadow-md transition dark:bg-neutral-900 dark:border-neutral-800" :to="`categories/${category[0]}`">
         <div class="p-4 md:p-5">
           <div class="flex justify-between items-center gap-x-3">
             <div class="grow">

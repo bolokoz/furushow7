@@ -52,10 +52,10 @@ withDefaults(defineProps<Props>(), {
       </div>
       <div class="flex flex-wrap items-center justify-between gap-4">
         <a href="#" class="r flex max-w-full gap-2.5 text-sm font-bold uppercase text-black">
-          <p>VISIT WEBSITE</p>
+          <p>Ir para o site</p>
           <img src="https://assets.website-files.com/6458c625291a94a195e6cf3a/64b636d7c440a74b4076b278_button-link.svg" alt="" class="inline-block">
         </a>
-        <a href="#" class="inline-block rounded-md bg-black px-6 py-3 text-center font-semibold text-white"> View Project </a>
+        <a href="#" class="inline-block rounded-md bg-black px-6 py-3 text-center font-semibold text-white"> Sobre o projeto </a>
       </div>
     </div>
   </div>

@@ -20,7 +20,7 @@ defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: navbarData.homeTitle,
   description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/riyad.jpg',
+  link: '/dark.png',
 })
 </script>
 
@@ -28,6 +28,7 @@ defineOgImageComponent('About', {
   <main class="container max-w-5xl mx-auto text-zinc-600">
     <MainHero />
     <MainRecent />
-    <MainTrending />
+    <NotesCategories />
+    <!-- <MainTrending /> -->
   </main>
 </template>
