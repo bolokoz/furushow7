@@ -1,6 +1,4 @@
 Tentei pegar um projeto pronto do github que pegaria suas notas do Notion e transformaria em um site mas é em chines
-![](/assets/images/NotionBlog-1.png)
-![NotionBlog.png](/assets/images/NotionBlog.png)
 
 Normalmente eu assustaria e iria embora porque não da para entender nada, mas dessa vez vou tentar.
 

@@ -18,21 +18,49 @@ const { data } = await useAsyncData(`category-data-${category.value}`, () =>
     .find(),
 )
 
-const formattedData = computed(() => {
-  return data.value?.map((articles) => {
+const allTagsArray = computed(() => {
+  const allTags = new Set()
+  data.value?.forEach((article) => {
+    const tags = article.tags || []
+    tags.forEach((tag) => {
+      allTags.add(tag)
+    })
+  })
+  return Array.from(allTags)
+})
+
+const selectedTags = ref(allTagsArray)
+
+function removeTag(index) {
+  selectedTags.value = selectedTags.splice(index)
+}
+
+function filterArticlesByTags(articles, selectedTags) {
+  return articles.filter(article =>
+    article.tags.some(tag => selectedTags.includes(tag)),
+  )
+}
+
+function formatArticles(articles) {
+  return articles.map((article) => {
     return {
-      path: articles._path,
-      title: articles.title || 'no-title available',
-      description: articles.description || 'no-description available',
-      image: articles.image || '/blogs-img/blog.jpg',
-      alt: articles.alt || 'no alter data available',
-      ogImage: articles.ogImage || '/blogs-img/blog.jpg',
-      date: articles.date || 'not-date-available',
-      tags: articles.tags || [],
-      category: articles.category || 'no-category',
-      published: articles.published || false,
+      path: article._path,
+      title: article.title || 'no-title available',
+      description: article.description || 'no-description available',
+      image: article.image || '/blogs-img/blog.jpg',
+      alt: article.alt || 'no alter data available',
+      ogImage: article.ogImage || '/blogs-img/blog.jpg',
+      date: article.date || 'not-date-available',
+      tags: article.tags || [],
+      category: article.category || 'no-category',
+      published: article.published || false,
     }
   })
+}
+
+const filteredData = computed(() => {
+  const formatedData = formatArticles(data?.value)
+  return filterArticlesByTags(formatedData || [], selectedTags.value)
 })
 
 useHead({
@@ -59,9 +87,10 @@ defineOgImage({
 <template>
   <main class="container max-w-5xl mx-auto text-zinc-600 px-4">
     <CategoryTopic />
+
     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3">
       <BlogCard
-        v-for="post in formattedData"
+        v-for="post in filteredData"
         :key="post.title"
         :path="post.path"
         :title="post.title"
