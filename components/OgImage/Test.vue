@@ -24,7 +24,7 @@ const formattedDescription = computed(() => props.description.length > 100 ? `${
 const formattedLink = computed(() => {
   if (props.link.endsWith('jpg') || props.link.endsWith('png'))
     return props.link
-  else return '/blogs-img/blog.jpg'
+  else return 'https://res.cloudinary.com/boloko/image/upload/f_auto/v1728951339/furushow7/image_smko7k.png'
 })
 </script>
 
