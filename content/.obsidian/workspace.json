@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9a330627f443b471",
+        "id": "5715027fffadedd9",
         "type": "tabs",
         "children": [
           {
-            "id": "d86657ea9c43fd89",
+            "id": "917e4ec53d5b6890",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "content/dev/NotionBlog.md",
-                "staged": false
+                "file": "blog/2024-10-14 1.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -85,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "blog/2024-10-14 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "blog/2024-10-14 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "blog/2024-10-14 1.md"
+              }
             }
           },
           {
@@ -151,6 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d86657ea9c43fd89",
-  "lastOpenFiles": []
+  "active": "917e4ec53d5b6890",
+  "lastOpenFiles": [
+    "blog/2024-10-14.md",
+    "blog/2024-10-14 1.md",
+    "Untitled.md"
+  ]
 }
