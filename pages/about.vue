@@ -15,7 +15,7 @@ defineOgImageComponent('About', {
   headline: 'Greetings 👋',
   title: navbarData.homeTitle,
   description: 'Dive into web development with me and learn Js, Ts, Vue, Nuxt, Docker, k8s',
-  link: '/dark.png',
+  link: 'https://res.cloudinary.com/boloko/image/upload/f_auto/v1728951339/furushow7/image_smko7k.png',
 })
 </script>
 
