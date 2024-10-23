@@ -58,3 +58,6 @@ Normalmente por óleos serem incompressíveis a pressão não vai alterar a visc
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729651889/furushow7/image_kuttxj.png)
 
+
+# Referências
+https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
