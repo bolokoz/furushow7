@@ -1,3 +1,7 @@
+---
+date: 2024-10-23
+tag:
+---
 # Resumo TLDR
 
 ## O que é tribologia
@@ -16,9 +20,6 @@ Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrific
 3. Antioxidantes: protege o óleo de se deteriorar devido ao calor
 4. Antidesgaste: previne o contato das superfícies 
 
-
-## Filtros 
-Filtros ajudam a manter o óleo lubrificante em seu estado natural filtrando sujeiras 
 # Específico
 
 ## Viscosidade
@@ -53,10 +54,33 @@ Normalmente por óleos serem incompressíveis a pressão não vai alterar a visc
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729651788/furushow7/image_cciozb.png)
 
+Motores estão frios quando são ligados e isso traz diversos problemas. Dependendo do clima local a temperatura pode fazer com que a viscosidade seja tão alta que a bomba de óleo falhe ou resistência ao fluir seja muito alta
+
+
+
+Caso optar por óleo muito viscoso a toda temperatura, quando o motor ficar parado por um certo tempo o óleo vai escorrer e não vai fazer a película protetora nas superfícies
+
+Para contornar essa situação existem **óleos de multi viscosos**. Possuem diversas classificações mas a mais usual é a [[#Classificação SAE]]
+
+
+
+
+
 
 ### Convenções
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729651889/furushow7/image_kuttxj.png)
+
+## Classificação SAE
+SAE é Sociedade Engenheiros de Automotores, dos EUA fundada em 1905 e tenta estabelecer padrões para o setor automotivo
+
+Os **óleos de grau** único são para quando o óleo está a 100 graus Célsius, como por exemplo o SAE 30 e SAE 40. Quanto maior, mais viscoso.
+
+Os **óleos lubrificantes multiviscosos** consistem em 2 númeors, como por exemplo 15W40:
+1. O primeiro é para temperatura baixa com W de *winter*
+2. O segundo para 100°C
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729726844/furushow7/image_cuuogt.png)
 
 
 # Referências
