@@ -5,7 +5,7 @@ interface Props {
   date?: string
   description?: string
   image?: string
-  category?: string
+  category?: array
   alt?: string
   ogImage?: string
   tags?: Array<string>
@@ -20,7 +20,7 @@ withDefaults(defineProps<Props>(), {
   image: 'https://res.cloudinary.com/boloko/image/upload/f_auto/v1728951339/furushow7/image_smko7k.png',
   alt: 'no-alt',
   ogImage: 'https://res.cloudinary.com/boloko/image/upload/f_auto/v1728951339/furushow7/image_smko7k.png',
-  category: 'no-category',
+  category: () => [],
   tags: () => [],
   published: false,
 })

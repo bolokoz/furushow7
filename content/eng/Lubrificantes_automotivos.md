@@ -1,8 +1,12 @@
 ---
+title: Lubrificantes automotivos
 date: 2024-10-23
-tag:
+category: ["tribologia"]
+tags: ["lubrificantes", "viscosidade"]
+cover: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
+image: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
 ---
-# Resumo TLDR
+# Tribologia e lubrificação
 
 ## O que é tribologia
 Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrificação entre superfícies que interagem em movimento. Tem objetivo de extender vida útil e evitar perdas de energia principalmente através do uso de lubrificantes
@@ -19,8 +23,6 @@ Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrific
 2. Detergentes: Evita o depósito de substâncias
 3. Antioxidantes: protege o óleo de se deteriorar devido ao calor
 4. Antidesgaste: previne o contato das superfícies 
-
-# Específico
 
 ## Viscosidade
 É propriedade mais importante do óleo lubrificante. Manter a viscosidade ideal com temperatura e pressão variando que é o desafio. 

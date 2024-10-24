@@ -15,7 +15,7 @@ data.value?.forEach((blog) => {
       allTags.set(tag, 1)
     }
   })
-  const categories = blog.category || []
+  const categories = Array.isArray(blog.category) ? blog.category : []
   categories.forEach((category) => {
     if (allCategories.has(category)) {
       const cnt = allCategories.get(category)
