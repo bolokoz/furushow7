@@ -1,5 +1,4 @@
 ---
-<<<<<<<< HEAD:content/eng/Lubrificantes_automotivos.md
 title: Lubrificantes automotivos
 date: 2024-10-23
 category: ["tribologia"]
@@ -13,7 +12,6 @@ date: 2024-10-23
 tag:
 ---
 # Resumo TLDR
->>>>>>>> d7a944b (vault backup: 2024-10-23 20:52:39):content/projects/Lubrificantes automotivos.md
 
 ## O que é tribologia
 Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrificação entre superfícies que interagem em movimento. Tem objetivo de extender vida útil e evitar perdas de energia principalmente através do uso de lubrificantes
@@ -31,11 +29,9 @@ Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrific
 3. Antioxidantes: protege o óleo de se deteriorar devido ao calor
 4. Antidesgaste: previne o contato das superfícies 
 
-<<<<<<<< HEAD:content/eng/Lubrificantes_automotivos.md
 ========
 # Específico
 
->>>>>>>> d7a944b (vault backup: 2024-10-23 20:52:39):content/projects/Lubrificantes automotivos.md
 ## Viscosidade
 É propriedade mais importante do óleo lubrificante. Manter a viscosidade ideal com temperatura e pressão variando que é o desafio. 
 
@@ -74,12 +70,7 @@ Motores estão frios quando são ligados e isso traz diversos problemas. Depende
 
 Caso optar por óleo muito viscoso a toda temperatura, quando o motor ficar parado por um certo tempo o óleo vai escorrer e não vai fazer a película protetora nas superfícies
 
-Para contornar essa situação existem **óleos de multi viscosos**. Possuem diversas classificações mas a mais usual é a [[#Classificação SAE]]
-
-
-
-
-
+Para contornar essa situação existem **óleos de multi viscosos**. Possuem diversas classificações mas a mais usual é a [Classificação SAE](#classificação-sae)
 
 ### Convenções
 
@@ -96,7 +87,6 @@ Os **óleos lubrificantes multiviscosos** consistem em 2 númeors, como por exem
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729726844/furushow7/image_cuuogt.png)
 
-<<<<<<<< HEAD:content/eng/Lubrificantes_automotivos.md
 
 ## Especificações dos óleos 
 
@@ -111,9 +101,6 @@ Abaixo da linha do tempo estão as normas de emissão dos poluentes. Normalmente
 ![[Pasted image 20241025233039.png]]
 
 A espeficicação API
-
-========
->>>>>>>> d7a944b (vault backup: 2024-10-23 20:52:39):content/projects/Lubrificantes automotivos.md
 
 # Referências
 https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
