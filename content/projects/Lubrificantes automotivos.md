@@ -83,5 +83,20 @@ Os **óleos lubrificantes multiviscosos** consistem em 2 númeors, como por exem
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729726844/furushow7/image_cuuogt.png)
 
 
+## Especificações dos óleos 
+
+Existem diversos grupos que determinam diferentes especificações. Elam tem o objetivo de diminuir emissões de poluentes ou melhorar rendimento e eficiência do motor
+
+![[Pasted image 20241025232444.png]]
+
+Na imagem acima podemos ver as diferentes evoluções de diferentes especificações. ACEA é mais utilizada na Europa, JASO no Japão e CI e GF nos Estados Unidos. 
+
+Abaixo da linha do tempo estão as normas de emissão dos poluentes. Normalmente as especificações novas acompanham as mudanças nas exigências junto com outras inovações, como por exemplo design de pistão, controle na combustão, recirculação e tratamento da exaustão, qualidade do combustível
+
+![[Pasted image 20241025233039.png]]
+
+A espeficicação API
+
+
 # Referências
 https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
