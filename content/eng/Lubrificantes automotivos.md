@@ -60,17 +60,19 @@ $$ \eta = \frac{2 \Delta \rho g r^2}{9v}$$
 Normalmente por óleos serem incompressíveis a pressão não vai alterar a viscosidade. Somente em pressões extremas vai alterar
 
 
-### Viscosidade em temperatura variável
+### Viscosidade em temperatura variável - índice de viscosidade
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729651788/furushow7/image_cciozb.png)
 
 Motores estão frios quando são ligados e isso traz diversos problemas. Dependendo do clima local a temperatura pode fazer com que a viscosidade seja tão alta que a bomba de óleo falhe ou resistência ao fluir seja muito alta
 
-
-
 Caso optar por óleo muito viscoso a toda temperatura, quando o motor ficar parado por um certo tempo o óleo vai escorrer e não vai fazer a película protetora nas superfícies
 
+> A viscosidade do óleo age exatamente o oposto do desejável
+
 Para contornar essa situação existem **óleos de multi viscosos**. Possuem diversas classificações mas a mais usual é a [Classificação SAE](#classificação-sae)
+
+O **índice de viscosidade** é um número adimensional que mede a variação da viscosidade entre 40 e 100 graus
 
 ### Convenções
 
@@ -91,16 +93,21 @@ Os **óleos lubrificantes multiviscosos** consistem em 2 númeors, como por exem
 ## Especificações dos óleos 
 
 Existem diversos grupos que determinam diferentes especificações. Elam tem o objetivo de diminuir emissões de poluentes ou melhorar rendimento e eficiência do motor
-
-![[Pasted image 20241025232444.png]]
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729911694/furushow7/image_ucthw6.png)
 
 Na imagem acima podemos ver as diferentes evoluções de diferentes especificações. ACEA é mais utilizada na Europa, JASO no Japão e CI e GF nos Estados Unidos. 
 
 Abaixo da linha do tempo estão as normas de emissão dos poluentes. Normalmente as especificações novas acompanham as mudanças nas exigências junto com outras inovações, como por exemplo design de pistão, controle na combustão, recirculação e tratamento da exaustão, qualidade do combustível
 
-![[Pasted image 20241025233039.png]]
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729911707/furushow7/image_angusv.png)
 
-A espeficicação API
+Por exemplo, do CG-4 para o CH-4 diminui-se 20% emissão de NOx. Já do CI-4 para o CI-4+, reduziram drasticamente partículas. Essas reduções são mais importantes nos motores diesel
+
+Já para reduzir emissões de CO2, é necessário aumentar a eficiência da combustão. Na parte da lubrificação isso é obtido através da diminuição da viscosidade e fricção interna. Antes era normal 15W40 e carros novos são visto utilizando 0W20
+
+
+
+
 
 # Referências
 https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
