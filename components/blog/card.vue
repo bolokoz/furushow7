@@ -7,7 +7,7 @@ interface Props {
   image: string
   alt: string
   ogImage: string
-  category?: string
+  category?: array
   tags: Array<string>
   published: boolean
 }
@@ -21,7 +21,7 @@ withDefaults(defineProps<Props>(), {
   alt: 'no-alt',
   ogImage: '/blogs-img/blog.jpg',
   tags: () => [],
-  category: 'no-category',
+  category: () => [],
   published: false,
 })
 </script>
