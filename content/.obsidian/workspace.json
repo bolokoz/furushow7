@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eng/Tribologia.md",
+                "file": "eng/Lubrificantes automotivos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tribologia"
+              "title": "Lubrificantes automotivos"
             }
           }
         ],
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "b33362422fa4226a",
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "projects/Lubrificantes automotivos.md"
+                "file": "eng/Lubrificantes automotivos.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Lubrificantes automotivos"
@@ -175,10 +174,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "747cc2add1082d8a",
+  "active": "f22caa2357b1cd3a",
   "lastOpenFiles": [
-    "eng/Lubrificantes automotivos.md",
     "eng/Tribologia.md",
+    "eng/Lubrificantes automotivos.md",
+    "Curva de Stribeck.md",
+    "().md",
+    "eng/Tribologia 2.md",
+    "eng/Tribologia 1.md",
+    "tribologia.md",
+    "eng/tribologia 1.md",
     "eng/Lubrificantes_automotivos.md",
     "conflict-files-obsidian-git.md",
     "projects/Lubrificantes automotivos.md",

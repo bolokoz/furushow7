@@ -6,17 +6,8 @@ tags: ["lubrificantes", "viscosidade"]
 cover: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
 image: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
 ---
-# Tribologia e lubrificação
-========
-date: 2024-10-23
-tag:
----
-# Resumo TLDR
 
-## O que é tribologia
-Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrificação entre superfícies que interagem em movimento. Tem objetivo de extender vida útil e evitar perdas de energia principalmente através do uso de lubrificantes
-
-## Lubrificantes
+# Lubrificantes
 Óleos lubrificantes formam uma fina película entre as duas superfícies reduzindo contato direto e desta forma minimizando atrito e desgaste. Também serve para dissipar calor e proteger contra corrosão.
 
 ### Tipos de óleo lubrificantes
@@ -28,9 +19,6 @@ Tribologia é o campo multidisciplinar que estuda fricção, desgaste e lubrific
 2. Detergentes: Evita o depósito de substâncias
 3. Antioxidantes: protege o óleo de se deteriorar devido ao calor
 4. Antidesgaste: previne o contato das superfícies 
-
-========
-# Específico
 
 ## Viscosidade
 É propriedade mais importante do óleo lubrificante. Manter a viscosidade ideal com temperatura e pressão variando que é o desafio. 
@@ -105,9 +93,34 @@ Por exemplo, do CG-4 para o CH-4 diminui-se 20% emissão de NOx. Já do CI-4 par
 
 Já para reduzir emissões de CO2, é necessário aumentar a eficiência da combustão. Na parte da lubrificação isso é obtido através da diminuição da viscosidade e fricção interna. Antes era normal 15W40 e carros novos são visto utilizando 0W20
 
+## Espessura do filme
 
+Durante a fase hidrodinâmica da [Tribologia](Tribologia.md#curva-de-Stribeck), onde o motor está em funcionamento, a espessura do filme é fundamental. Nenhuma superfície é perfeitamente lisa, usa-se a média entre as distancias
 
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730047321/furushow7/image_ppzi6i.png)
 
+A espessura é incrivelmente fina. No geral temos essas espessuras com ordem de magnitude menor que fio de cabelo
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730047405/furushow7/image_r0y9ng.png)
+
+O problema dessa distância tão pequena é que qualquer contaminante  pode trazer erosões
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730047618/furushow7/image_oqjj0j.png)
+
+Para contornar isso devemos aumentar a viscosidade do óleo ou filtrar para partículas cada vez menores
+
+## Oxidação do óleo básico
+
+O óleo que usamos na cozinha e o automotivo passam quase que pelo mesmo processo de calor e contato com o oxigênio que quebram as moléculas orgânicas
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730049847/furushow7/image_xletfa.png)
+
+Para ser mais específico, óleo são hidrocarbonetos (R - H). Acabam sofrendo oxidação (que é perda de elétrons, redução é ganho de elétrons) por diversos motivos, como calor, radiação ultravioleta e até mesmo estresse físico
+
+Esse hidrocarboneto pode gerar diversos subprodutos, como água, álcoois e ácidos. A geração destes formam um ciclo como se pode ver abaixo:
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730050485/furushow7/image_thcfre.png)
+
+Aditivos antioxidantes tentam quebrar um desses ciclos
 
 # Referências
 https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
