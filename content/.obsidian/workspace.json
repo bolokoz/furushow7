@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a7e50e1945485a39",
+        "id": "d518ed9f66acd9cf",
         "type": "tabs",
         "children": [
           {
-            "id": "747cc2add1082d8a",
+            "id": "0e07bb039a9164db",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eng/Lubrificantes automotivos.md",
+                "file": "parmegianologo/2024-09-30-mistura-grill.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lubrificantes automotivos"
+              "title": "2024-09-30-mistura-grill"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eng/Lubrificantes automotivos.md"
+                "file": "parmegianologo/2024-09-30-mistura-grill.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Lubrificantes automotivos"
+              "title": "Outline of 2024-09-30-mistura-grill"
             }
           },
           {
@@ -155,13 +155,126 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0c719447ab7cb1c0",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-manage-forms-view",
+              "state": {},
+              "icon": "documents",
+              "title": "Manage forms"
+            }
+          },
+          {
+            "id": "0d86b14143082f21",
+            "type": "leaf",
+            "state": {
+              "type": "modal-form-template-builder-view",
+              "state": {
+                "title": "Adicionar Parmegiana_v1",
+                "name": "parmegianologo_v1",
+                "version": "1",
+                "fields": [
+                  {
+                    "name": "title",
+                    "label": "restaurante",
+                    "description": "restaurante",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": true
+                  },
+                  {
+                    "name": "category",
+                    "label": "",
+                    "description": "",
+                    "input": {
+                      "type": "text",
+                      "allowUnknownValues": false,
+                      "hidden": true,
+                      "options": [],
+                      "source": "fixed"
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "acompanhamentos",
+                    "label": "",
+                    "description": "",
+                    "input": {
+                      "type": "tag",
+                      "allowUnknownValues": false,
+                      "hidden": false
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "rating",
+                    "label": "",
+                    "description": "rating pessoal",
+                    "input": {
+                      "type": "slider",
+                      "allowUnknownValues": false,
+                      "hidden": false,
+                      "min": 1,
+                      "max": 5
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "rating_tecnica",
+                    "label": "",
+                    "description": "rating tecnica",
+                    "input": {
+                      "type": "slider",
+                      "allowUnknownValues": false,
+                      "hidden": false,
+                      "min": 1,
+                      "max": 5
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "rating_carne",
+                    "label": "",
+                    "description": "",
+                    "input": {
+                      "type": "slider",
+                      "allowUnknownValues": false,
+                      "hidden": false,
+                      "min": 1,
+                      "max": 5
+                    },
+                    "isRequired": false
+                  },
+                  {
+                    "name": "rating_molho",
+                    "label": "",
+                    "description": "",
+                    "input": {
+                      "type": "slider",
+                      "allowUnknownValues": false,
+                      "hidden": false,
+                      "min": 1,
+                      "max": 5
+                    },
+                    "isRequired": false
+                  }
+                ]
+              },
+              "icon": "lucide-file",
+              "title": "Template Builder"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 652.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -171,11 +284,30 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "modalforms:Edit forms": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "f22caa2357b1cd3a",
   "lastOpenFiles": [
+    "parmegianologo/Untitled 1.md",
+    "parmegianologo/popopo.md",
+    "parmegianologo/paosdkfa.md",
+    "templates/parmegianologo_v1.md",
+    "templates/parme_v1.md",
+    "parmegianologo/Untitled.md",
+    "parmegianologo/2024-09-30-mistura-grill.md",
+    "parmegianologo/czxczx.md",
+    "templates/Untitled.md",
+    "parmegianologo/testandomodal.md",
+    "parmegianologo/testando.md",
+    "parmegianologo/agoravai.md",
+    "teseteeeasdfasdf.md",
+    "parmegianologo/2024-10-28 - Teste2.md",
+    "parmegianologo/2024-10-28 - Teste QuickAdd.md",
+    "eng/Lubrificantes automotivos.md",
+    "templates",
     "filosofia/Génesis e Marte.md",
     "filosofia",
     "Ideias/Oppositorun.md",
@@ -183,26 +315,12 @@
     "Ideias/Caixa Patrick estrela.md",
     "Ideias",
     "eng/Tribologia.md",
-    "eng/Lubrificantes automotivos.md",
     "Curva de Stribeck.md",
     "().md",
     "eng/Tribologia 2.md",
     "eng/Tribologia 1.md",
     "tribologia.md",
-    "eng/tribologia 1.md",
-    "eng/Lubrificantes_automotivos.md",
-    "conflict-files-obsidian-git.md",
-    "projects/Lubrificantes automotivos.md",
-    "parmegianologo/2024-10-17-teste.md",
-    "blog/Onde vai parar essa nota aleatória.md",
-    "templates/parmegianologo_v1.md",
-    "templates/diario_v1.md",
     "templates",
-    "parmegianologo/Restaurante teste.md",
-    "eng/asas_voadoras.md",
-    "eng",
-    "blog/2024-10-14.md",
-    "blog/2024-10-14 1.md",
-    "Untitled.md"
+    "eng"
   ]
 }

@@ -1,4 +1,7 @@
 [
   "obsidian-git",
-  "cloudinary"
+  "cloudinary",
+  "frontmatter-modified-date",
+  "modalforms",
+  "templater-obsidian"
 ]
