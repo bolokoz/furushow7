@@ -1,0 +1,5 @@
+{
+  "folder": "content/blog",
+  "template": "content/templates/diario_v1",
+  "autorun": true
+}
