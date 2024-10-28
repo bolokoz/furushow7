@@ -66,6 +66,24 @@ O **índice de viscosidade** é um número adimensional que mede a variação da
 
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1729651889/furushow7/image_kuttxj.png)
 
+
+## Graxas
+
+Graxa é um lubrificante sólido ou semi sólido formado por pela dispersão de um agente espessante em um lubrificante líquido
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730143411/furushow7/image_ior5hg.png)
+
+É um lubrificante que não flui. Ocasiões onde é usado:
+1. Lugares onde não pode haver vazamento
+2. Contaminantes são difíceis de ser introduzido
+3. Quando a máquina desliga o lubrificante não desce por gravidade
+4. Uso externo como escavadoras
+
+Desvantagens:
+1. Não transporta calor
+2. Uma vez contaminado é difícil de filtrar
+3. Não tem um reservatório caso precisar de mais
+
 ## Classificação SAE
 SAE é Sociedade Engenheiros de Automotores, dos EUA fundada em 1905 e tenta estabelecer padrões para o setor automotivo
 
@@ -108,6 +126,30 @@ O problema dessa distância tão pequena é que qualquer contaminante  pode traz
 
 Para contornar isso devemos aumentar a viscosidade do óleo ou filtrar para partículas cada vez menores
 
+## Volatilidade
+
+Volatilidade em hidrocarbonetos é proporcional ao peso molecular devido as forças intermoleculares que quanto maiores, mais interações entre as moléculas existem
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730144459/furushow7/image_iswluw.png)
+
+
+Óleos de grupo 1 possuem desvio padrão maiores e possuem mais moléculas leves 
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730144644/furushow7/image_vgrbhs.png)
+
+Rapidamente as moléculas leves voláteis evaporam e a média do peso molecular do grupo aumenta, elevando a viscosidade
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730144845/furushow7/image_htbvlr.png)
+
+### NOACK - medir a volatilidade (ASTM D5800)
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730144912/furushow7/image_rk2jh7.png)
+
+Mede a perda de volume durante determinado tempo e temperatura
+
+## Ponto de fulgor (flash point)
+
+Menor temperatura em que um líquido em que os vapores formam uma mistura combustível com o ar
+
 ## Oxidação do óleo básico
 
 O óleo que usamos na cozinha e o automotivo passam quase que pelo mesmo processo de calor e contato com o oxigênio que quebram as moléculas orgânicas
@@ -121,6 +163,58 @@ Esse hidrocarboneto pode gerar diversos subprodutos, como água, álcoois e áci
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730050485/furushow7/image_thcfre.png)
 
 Aditivos antioxidantes tentam quebrar um desses ciclos
+
+## HTHS - Alta temperatura alta força cisalhante
+
+A especificação SAE correlaciona viscosidade e temperatura entre 40 e 100 graus Celsius, mas existem diversas partes do motor em que essa temperatura quase dobra. Por isso existe uma denominação HTHS (high temperature, high sheer) para determinar comportamento do lubrificante nessas regiões extremas:
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730144294/furushow7/image_h87jad.png)
+
+O objetivo é manter a viscosidade ideal nesses extremos para que não perca energia por atrito e aumentar eficiência energética. Para isso é preciso óleos de qualidade superior e muitos aditivos
+## Ácidos - TAN, SAN, AN
+
+Divide-se em dois grupos: Ácidos orgânicos e ácidos minerais que são divididos em fortes e fracos 
+
+Ácidos orgânicos são originados da [oxidação](#oxidação-do-óleo-básico) e ácidos minerais vem de contaminações
+
+Durante a oxidação existem subprodutos ácidos que elevam o nível de 
+
+Ácidos fortes no contexto químico são aqueles que se dissociam rapidamente em solução de água
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730141712/furushow7/image_ylgqht.png)
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730141946/furushow7/image_wtdiym.png)
+
+TAN - Total Acid Number
+SAN - Strong Acid Number
+AN - Acid Number
+
+## Aditivos
+
+### Aumentadores de índice de viscosiade (VI Improvers)
+
+Degradam rápidamente com força cisalhante e devem ser pouco utilizados
+
+### Boro
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730142096/furushow7/image_x4ktjj.png)
+
+Quinto elemento na tabela periódica, ao lado do Carbono, possui diversas propriedades similares.
+
+1. Antioxidante no formato de 'borate esters' reagindo com ácidos presentes (?), como na fórmula:
+
+$$ acid + alcohol \rightarrow ester + agua  $$
+2. Lubrificantes sólidos de Boron: nitrato de boro - assim como o grafite, boro em estrutura cúbica se assimila com diamante (muito duro e abrasivo) ou estrutura hexagonal (que se assemelha com grafite)
+3. Inibidor de corrosão: usado nos fluidos de usinagem pois os sais de boro são solúveis em água
+4. Inibidor de micróbios: aumentam o pH do fluido para que vida não cresça na solução
+5. Anti desgaste: ácido de boro + dispersant - aparentemente na interface libera cristais de sacrifício para que a superfície não sofra o desgaste
+
+Contaminantes:
+1. Usado em catalisadores 
+2. Usado em líquido refrigerante e podem acabar entrando em contato com lubrificante
+3. Ácido bórico: ester + água as vezes podem ir na direção reversa
+4. Agentes de limpeza industrial (borax)
+
 
 # Referências
 https://youtu.be/lahlq9agw54?si=SCCMhau_ePXgmM1_
