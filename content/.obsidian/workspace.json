@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parmegianologo/2024-09-30-mistura-grill.md",
+                "file": "eng/Forças intermoleculáres.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-09-30-mistura-grill"
+              "title": "Forças intermoleculáres"
             }
           }
         ],
@@ -140,10 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parmegianologo/2024-09-30-mistura-grill.md"
+                "file": "eng/Forças intermoleculáres.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-09-30-mistura-grill"
+              "title": "Outline of Forças intermoleculáres"
             }
           },
           {
@@ -274,7 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 652.5
+    "width": 317.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,13 +291,15 @@
   },
   "active": "f22caa2357b1cd3a",
   "lastOpenFiles": [
+    "eng/Lubrificantes automotivos.md",
+    "eng/Forças intermoleculáres.md",
+    "parmegianologo/2024-09-30-mistura-grill.md",
     "parmegianologo/Untitled 1.md",
     "parmegianologo/popopo.md",
     "parmegianologo/paosdkfa.md",
     "templates/parmegianologo_v1.md",
     "templates/parme_v1.md",
     "parmegianologo/Untitled.md",
-    "parmegianologo/2024-09-30-mistura-grill.md",
     "parmegianologo/czxczx.md",
     "templates/Untitled.md",
     "parmegianologo/testandomodal.md",
@@ -306,7 +308,6 @@
     "teseteeeasdfasdf.md",
     "parmegianologo/2024-10-28 - Teste2.md",
     "parmegianologo/2024-10-28 - Teste QuickAdd.md",
-    "eng/Lubrificantes automotivos.md",
     "templates",
     "filosofia/Génesis e Marte.md",
     "filosofia",
@@ -319,7 +320,6 @@
     "().md",
     "eng/Tribologia 2.md",
     "eng/Tribologia 1.md",
-    "tribologia.md",
     "templates",
     "eng"
   ]

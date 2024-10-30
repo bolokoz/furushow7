@@ -1,10 +1,15 @@
 ---
 title: Lubrificantes automotivos
 date: 2024-10-23
-category: ["tribologia"]
-tags: ["lubrificantes", "viscosidade"]
+category:
+  - tribologia
+tags:
+  - lubrificantes
+  - viscosidade
 cover: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
 image: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
+modified: 2024-10-30T00:24:58-03:00
+created: 2024-10-25T23:48:28-03:00
 ---
 
 # Lubrificantes
@@ -14,6 +19,14 @@ image: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furusho
 1. Minerais: derivados do refino de óleo cru. São os mais comuns e usados em diversas aplicações
 2. Sintéticos: criados através de reações químicas com fins específicos
 3. Biológicos: origem vegetal ou reaproveitados (?)
+
+### Análise típica
+
+Abaixo um relatório de Lubrax 15W40 Top Turbo 
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730256521/furushow7/image_csahab.png)
+ Mais abaixo será descrito cada um destas informações 
+
 ### Propriedades e aditivos
 1. Viscosidade:  a resistência do líquido para fluir. É a propriedade mais importante. É preciso achar o ponto ideal para cada aplicação. Muita viscosidade gera resistência e perda de eficiência. Pouca viscosidade não protege as superfícies
 2. Detergentes: Evita o depósito de substâncias
@@ -149,6 +162,13 @@ Mede a perda de volume durante determinado tempo e temperatura
 ## Ponto de fulgor (flash point)
 
 Menor temperatura em que um líquido em que os vapores formam uma mistura combustível com o ar
+Os testes para determinar a temperatura se baseiam em colocar o lubrificante em um becker (aberto ou fechado) em um prato que vai aumentando a temperatura e uma vela de ignição constantemente tentando acender o vapor e anota-se a temperatura que ocorre a chama 
+
+Um ponto importante é de que o ponto de fulgor é considerado uma propriedade do aparato de teste e não do lubrificante. Portanto sempre observar qual metodologia foi utilizada
+
+Também observar que com o aumento da temperatura dois fenômenos podem ocorrer:
+1. Óleos do grupo 1 (desvio padrão alto) as moléculas leves evaporam mais rápido e a viscosidade aumenta as. Em um sistema aberto as vezes alterando o ponto de fulgor paradoxalmente **para cima**
+2. Quebra térmica das moléculas maiores também de um óleo grupo 1, diminuindo a viscosidade e aumentando quantidade de moléculas menores e diminuindo o vapor 
 
 ## Oxidação do óleo básico
 
@@ -163,6 +183,46 @@ Esse hidrocarboneto pode gerar diversos subprodutos, como água, álcoois e áci
 ![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730050485/furushow7/image_thcfre.png)
 
 Aditivos antioxidantes tentam quebrar um desses ciclos
+
+## Polimerização
+
+É uma das principais razões pelo aumento da viscosidade com o tempo de uso
+
+Ocorre através de 2 métodos:
+
+### Reação de adição
+
+Novamente voltando ao ciclo de oxidação dos óleos
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730257502/furushow7/image_gqi9db.png)
+Temos diversos compostos radicais com elétrons livres na camada de valência. Esses radicais iniciam a reação ao encontrar uma ligação fraca, por exemplo a ligação dupla na camada S e na camada P entre carbono e carbono
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730257814/furushow7/image_q5nuqm.png)
+
+O elétron da camada orbital P não tem ligação direta como do orbital sigma S e são mais fáceis de quebrar, preferindo se ligar ao radical
+
+Esse novo grupo formado continua sendo um radical tendo um elétron livre. A reação se repete novamente
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730258046/furushow7/image_cb6afo.png)
+
+Resultando em um polímero e aumentando a cadeia
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730258075/furushow7/image_ghmf1d.png)
+
+Isso se perpetua até encontrar outro radical e fechar o ciclo
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730258112/furushow7/image_wplnvd.png)
+
+### Reação de condensação
+
+Tem esse nome porque um dos subprodutos é água. Ocorrem por ligações carbono heteroátomo, quando carbono não se liga com outro carbono como na reação de adição, mas sim com outro átomo diferente
+
+Por exemplo um éster aromatico que encontra uma uma molécula que tem um grupo hidroxila
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730258400/furushow7/image_g5iwvi.png)
+
+Eles reagem formando um poliéster e subproduto água
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1730258496/furushow7/image_oeavty.png)
+
 
 ## HTHS - Alta temperatura alta força cisalhante
 

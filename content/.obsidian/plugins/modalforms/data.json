@@ -21,13 +21,11 @@
           "name": "date",
           "label": "",
           "description": "",
+          "isRequired": false,
           "input": {
             "type": "date",
-            "allowUnknownValues": false,
-            "hidden": false,
-            "body": ""
-          },
-          "isRequired": false
+            "hidden": false
+          }
         },
         {
           "name": "category",
@@ -46,11 +44,9 @@
           "isRequired": true,
           "input": {
             "type": "multiselect",
-            "folder": "",
-            "allowUnknownValues": true,
-            "query": "",
+            "source": "fixed",
             "multi_select_options": [],
-            "source": "fixed"
+            "allowUnknownValues": true
           }
         },
         {
@@ -148,8 +144,6 @@
           "isRequired": true,
           "input": {
             "type": "number",
-            "min": 1,
-            "max": 5,
             "hidden": false
           }
         },
@@ -160,8 +154,6 @@
           "isRequired": true,
           "input": {
             "type": "number",
-            "min": 1,
-            "max": 5,
             "hidden": false
           }
         }
