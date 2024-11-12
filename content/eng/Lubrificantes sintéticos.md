@@ -1,6 +1,10 @@
 ---
 modified: 2024-11-12T01:33:58-03:00
 created: 2024-11-12T00:09:37-03:00
+category:
+  - tribologia
+tags:
+  - lubrificantes
 ---
 Em teoria deveriam ser óleo totalmente sintéticos, ou seja, fabricados. No entanto óleos de categoria 3, que é um óleo bruto refinado também é considerado sintético 
 
