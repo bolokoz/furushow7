@@ -8,7 +8,7 @@ tags:
   - viscosidade
 cover: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
 image: https://res.cloudinary.com/boloko/image/upload/f_auto/v1729650767/furushow7/image_pguykv.png
-modified: 2024-10-30T00:24:58-03:00
+modified: 2024-11-13T00:27:38-03:00
 created: 2024-10-25T23:48:28-03:00
 ---
 
@@ -123,6 +123,9 @@ Abaixo da linha do tempo estão as normas de emissão dos poluentes. Normalmente
 Por exemplo, do CG-4 para o CH-4 diminui-se 20% emissão de NOx. Já do CI-4 para o CI-4+, reduziram drasticamente partículas. Essas reduções são mais importantes nos motores diesel
 
 Já para reduzir emissões de CO2, é necessário aumentar a eficiência da combustão. Na parte da lubrificação isso é obtido através da diminuição da viscosidade e fricção interna. Antes era normal 15W40 e carros novos são visto utilizando 0W20
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1731468157/furushow7/image_e2lwi3.png)
+
 
 ## Espessura do filme
 

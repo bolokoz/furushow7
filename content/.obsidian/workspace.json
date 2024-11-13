@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eng/Forças intermoleculáres.md",
+                "file": "eng/Lubrificantes sintéticos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forças intermoleculáres"
+              "title": "Lubrificantes sintéticos"
             }
           },
           {
@@ -36,7 +36,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -155,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eng/ZDDP - aditivo de lubrificante.md"
+                "file": "eng/Lubrificantes sintéticos.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of ZDDP - aditivo de lubrificante"
+              "title": "Outline of Lubrificantes sintéticos"
             }
           },
           {
@@ -306,10 +305,12 @@
   },
   "active": "f22caa2357b1cd3a",
   "lastOpenFiles": [
-    "eng/Lubrificantes sintéticos.md",
-    "eng/ZDDP - aditivo de lubrificante.md",
     "eng/Lubrificantes automotivos.md",
+    "eng/Óleos basicos.md",
+    "eng/Lubrificantes sintéticos.md",
+    "eng/Biodiesel.md",
     "eng/Forças intermoleculáres.md",
+    "eng/ZDDP - aditivo de lubrificante.md",
     "parmegianologo/2024-09-30-mistura-grill.md",
     "parmegianologo/Untitled 1.md",
     "parmegianologo/popopo.md",
@@ -333,8 +334,6 @@
     "Ideias/Caixa Patrick estrela.md",
     "Ideias",
     "eng/Tribologia.md",
-    "Curva de Stribeck.md",
-    "().md",
     "templates",
     "eng"
   ]

@@ -1,5 +1,5 @@
 ---
-modified: 2024-11-12T01:33:58-03:00
+modified: 2024-11-13T10:23:36-03:00
 created: 2024-11-12T00:09:37-03:00
 category:
   - tribologia
@@ -61,3 +61,12 @@ Processo produtivo que utiliza metano criar de forma mais barata um produto tota
 O mesmo processo pode produzir outros produtos dependendo da demanda
 
 Necessita de catalisador de cobalto que está em alta demanda devido baterias de lítio
+
+
+### Diferenças de performance entre PAO e minerais
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1731466361/furushow7/image_omhfdv.png)
+
+
+### Vale a pena pagar mais caro?
+
+![](https://res.cloudinary.com/boloko/image/upload/f_auto/v1731468390/furushow7/image_fppeqc.png)
