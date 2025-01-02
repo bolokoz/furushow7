@@ -4,20 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "19f87ee0809a12f8",
+        "id": "74d9ee37e039272e",
         "type": "tabs",
         "children": [
           {
-            "id": "48210e35129069c5",
+            "id": "5f4ca74ca2a31c61",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "content/eng/Lubrificantes automotivos.md",
-                "staged": false
+                "file": "dev/Retool.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "git-pull-request",
-              "title": "Diff View (Lubrificantes automotivos)"
+              "icon": "lucide-file",
+              "title": "Retool"
             }
           }
         ],
@@ -288,36 +289,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "48210e35129069c5",
+  "active": "5f4ca74ca2a31c61",
   "lastOpenFiles": [
+    "dev/1.md",
+    "dev/Retool.md",
+    "projects/koeroga/Plantas.md",
+    "projects/koeroga.md",
+    "projects/koeroga",
+    "linguagens/Pojopy.md",
+    "linguagens/Ajavy.md",
+    "linguagens/aikoteve_nderehe.md",
+    "filosofia/Helvetica e outras fontes.md",
+    "blogs/6. how-to-fix-vuex-type-issue.md",
+    "blogs/3. create-namespace-subdomain-connect-to-vercel.md",
+    "templates/parmegianologo_v1.md",
+    "templates/parme_v1.md",
+    "projects/purahei.md",
+    "projects/furushow.md",
+    "projects/edificio_mariano.md",
     "eng/Lubrificantes - contaminações.md",
     "eng/Forças intermoleculáres.md",
     "eng/ZDDP - aditivo de lubrificante.md",
     "eng/Lubrificantes automotivos.md",
     "eng/Lubrificantes sintéticos.md",
-    "filosofia/Helvetica e outras fontes.md",
     "filosofia/Génesis e Marte.md",
     "Ideias/Caixa Patrick estrela.md",
     "eng/Óleos basicos.md",
     "eng/Biodiesel.md",
     "parmegianologo/2024-09-30-mistura-grill.md",
     "parmegianologo/Untitled 1.md",
-    "parmegianologo/popopo.md",
-    "parmegianologo/paosdkfa.md",
-    "templates/parmegianologo_v1.md",
-    "templates/parme_v1.md",
-    "parmegianologo/Untitled.md",
-    "parmegianologo/czxczx.md",
-    "templates/Untitled.md",
-    "parmegianologo/testandomodal.md",
-    "parmegianologo/testando.md",
-    "parmegianologo/agoravai.md",
-    "teseteeeasdfasdf.md",
-    "parmegianologo/2024-10-28 - Teste2.md",
-    "parmegianologo/2024-10-28 - Teste QuickAdd.md",
     "templates",
     "filosofia",
-    "Ideias/Oppositorun.md",
     "Ideias",
     "templates",
     "eng"
